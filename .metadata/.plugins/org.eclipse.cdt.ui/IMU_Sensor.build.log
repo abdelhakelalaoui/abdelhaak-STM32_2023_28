@@ -1,0 +1,10 @@
+08:14:46 **** Incremental Build of configuration Debug for project IMU_Sensor ****
+make -j12 all 
+arm-none-eabi-size   IMU_Sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15392	     20	   1788	  17200	   4330	IMU_Sensor.elf
+Finished building: default.size.stdout
+ 
+
+08:14:46 Build Finished. 0 errors, 0 warnings. (took 282ms)
+
